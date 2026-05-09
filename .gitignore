@@ -2,4 +2,4 @@
 *.gif
 *.pdf
 *.mat
-*.npy
+*.npz
