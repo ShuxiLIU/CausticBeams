@@ -1,3 +1,5 @@
 *.bmp
+*.gif
+*.pdf
 *.mat
 *.npy
